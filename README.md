@@ -62,3 +62,8 @@ In short, this project demonstrates how to:
 - Combine **tool calling**, **structured outputs (Pydantic models)**, and **tracing** to build a robust multi‑step deep research workflow.  
 - Surface the whole experience behind a simple, user‑friendly Gradio interface.
 
+---
+
+### Credits
+
+This project is an output from **Ed Donner’s Agentic Course**, adapted and extended for personal experimentation and learning.
